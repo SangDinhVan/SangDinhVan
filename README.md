@@ -8,5 +8,5 @@ My name is Đinh Văn Sáng. I am a student at HCMUTE. <br>
 ![Sang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SangDinhVan&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/SangDinhVan/Sort_Animation_JavaFX">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangDinhVan&repo=Sort_Animation_JavaFX&theme=radical" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangDinhVan&repo=Sort-Animation-JavaFX&theme=radical" />
 </a>
