@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Sang Dinh. I am a student at HCMUTE . I am interested in the following topics: Deep Learning for Computer Vision, LLM, Reinforcement Learning.<br>
+My name is Sang Dinh. I am a student at HCMUTE . <br>
 ## 📫 How to reach me: 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/sang-dinh-206703312/) 
 [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/SangDinhVan/) 
