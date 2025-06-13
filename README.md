@@ -1,5 +1,5 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Đinh Văn Sáng. I am a student at HCMUTE. <br>
+My name is Đinh Văn Sáng. I am a student at Ho Chi Minh City University of Technology and Education(HCMUTE). <br>
 ## 📫 How to reach me: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sang-dinh-206703312/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white)](https://github.com/SangDinhVan)
