@@ -8,6 +8,14 @@ My name is Đinh Văn Sáng. I am a student at Ho Chi Minh City University of Te
 
 ![Sang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SangDinhVan&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/SangDinhVan/GPT-decoder-only-Vi">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangDinhVan&repo=GPT-decoder-only-Vi&theme=merko" />
+</a>
+<a href="https://github.com/SangDinhVan/pytorch-translate-en-vi">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangDinhVan&repo=pytorch-translate-en-vi&theme=radical" />
+</a>
 <a href="https://github.com/SangDinhVan/Sentiment-Analysis-Vietnamese">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangDinhVan&repo=Sentiment-Analysis-Vietnamese&theme=dracula" />
