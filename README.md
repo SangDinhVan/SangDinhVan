@@ -8,6 +8,10 @@ My name is Đinh Văn Sáng. I am a student at Ho Chi Minh City University of Te
 
 ![Sang's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=SangDinhVan&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
+<a href="https://github.com/SangDinhVan/AI-Tank-Trouble">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangDinhVan&repo=AI-Tank-Trouble&theme=onedark" />
+</a>
 <a href="https://github.com/SangDinhVan/Face-recognize-cv2">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SangDinhVan&repo=Face-recognize-cv2&theme=gruvbox" />
