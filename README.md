@@ -13,10 +13,6 @@ My name is Đinh Văn Sáng. I am a student at Ho Chi Minh City University of Te
 </div>
 <br>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SangDinhVan&theme=radical" alt="Top Languages" />
-</div>
-<br>
 
 
 
